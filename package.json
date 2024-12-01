@@ -1,0 +1,14 @@
+{
+  "name": "unit_9",
+  "version": "1.0.0",
+  "description": "Home work for unit_9 To run test use this command: npx playwright test",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1"
+  }
+}
